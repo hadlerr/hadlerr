@@ -12,15 +12,15 @@
     <em>Ex-entrepreneur bringing business maturity to code. Focus on clean architecture.</em>
   </p>
 
-  <p>
+ <p>
     <a href="https://github.com/hadlerr?tab=followers">
       <img src="https://img.shields.io/github/followers/hadlerr?style=for-the-badge&logo=github&labelColor=171e26&color=5e35b1&logoColor=white" alt="Seguidores">
     </a>
     <a href="https://github.com/hadlerr?tab=stars">
       <img src="https://img.shields.io/github/stars/hadlerr?style=for-the-badge&logo=github&labelColor=171e26&color=ffd700&logoColor=white" alt="Estrelas">
     </a>
-    <a href="https://github.com/hadlerr?tab=repositories">
-      <img src="https://img.shields.io/github/public-repos/hadlerr?style=for-the-badge&logo=github&labelColor=171e26&color=28a745&logoColor=white" alt="Repositórios">
+    <a href="https://github.com/hadlerr">
+      <img src="https://komarev.com/ghpvc/?username=hadlerr&style=for-the-badge&label=Profile%20Views&color=28a745&labelColor=171e26" alt="Profile Views">
     </a>
   </p>
 </div>
