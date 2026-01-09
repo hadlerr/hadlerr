@@ -1,45 +1,67 @@
-# Olá, eu sou o Hadler! 👋
+<div align="center">
+  <img src="https://github.com/hadlerr.png" width="120" style="border-radius: 50%; border: 2px solid #5e35b1;">
 
-### 👨‍💻 Desenvolvedor Backend em Formação | Java & Spring Boot
-
-Estudante de Análise e Desenvolvimento de Sistemas, focado em criar soluções robustas e escaláveis no ecossistema Java. Atualmente aprimorando meus conhecimentos em arquitetura de software e APIs RESTful.
-
----
-
-### 🚀 Tecnologias e Ferramentas
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Hadler-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Hadler-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="center" alt="Hadler-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <h1>Hadler Lins</h1>
   
-  <img align="center" alt="Hadler-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Hadler-Postman" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg">
-  <img align="center" alt="Hadler-Intellij" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg">
+  <h3>
+    🚀 ADS Student & Java Developer<br>
+    🇧🇷 PT-BR | 🇺🇸 EN-US (C1)
+  </h3>
+  
+  <p>
+    <em>Ex-entrepreneur bringing business maturity to code. Focus on clean architecture.</em>
+  </p>
+
+  <p>
+    <a href="https://github.com/hadlerr?tab=followers">
+      <img src="https://img.shields.io/github/followers/hadlerr?style=for-the-badge&logo=github&labelColor=171e26&color=5e35b1&logoColor=white" alt="Seguidores">
+    </a>
+    <a href="https://github.com/hadlerr?tab=stars">
+      <img src="https://img.shields.io/github/stars/hadlerr?style=for-the-badge&logo=github&labelColor=171e26&color=ffd700&logoColor=white" alt="Estrelas">
+    </a>
+    <a href="https://github.com/hadlerr?tab=repositories">
+      <img src="https://img.shields.io/github/public-repos/hadlerr?style=for-the-badge&logo=github&labelColor=171e26&color=28a745&logoColor=white" alt="Repositórios">
+    </a>
+  </p>
 </div>
 
-<br/>
+<br>
+
+### 👨‍💻 Sobre Mim
+
+Sou um desenvolvedor em transição de carreira focado na construção de sistemas robustos e escaláveis. Minha especialidade é transformar regras de negócio complexas em código limpo e eficiente utilizando o ecossistema **Java**.
+
+Trago na bagagem **maturidade de gestão** (ex-empreendedor) e facilidade com o idioma inglês para consumo de documentação técnica nativa.
+
+- 🔭 Atualmente desenvolvendo projetos com **Java e Spring Boot**.
+- 📚 Estudando **Google Analytics (Coursera)** para unir dados e desenvolvimento.
+- 🗣️ **Inglês C1 (Avançado/Fluente):** Leitura nativa de documentações e consumo de conteúdo técnico internacional.
+- 💼 **Background:** Trago soft skills sólidas de gestão, responsabilidade e foco em resultados da minha vivência anterior como empreendedor.
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
+### 🛠️ Tech Stack & Ferramentas
 
 <div align="center">
-  <a href="https://github.com/hadlerr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hadlerr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadlerr&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,maven,idea,postman,docker&theme=dark" />
+</div>
+
+<br>
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hadlerr&show_icons=true&theme=dracula&bg_color=282a36&hide_border=true&count_private=true" height="160" alt="Hadler's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadlerr&layout=compact&langs_count=6&theme=dracula&bg_color=282a36&hide_border=true" height="160" alt="Top Languages" />
 </div>
 
 ---
-
-### 📫 Contato
 
 <div align="center">
   <a href="https://www.linkedin.com/in/hadler-souza-925446321/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
   <a href="mailto:hadlersouza96@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </div>
