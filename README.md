@@ -1,9 +1,10 @@
 <div align="center">
-  <h1>Hadler Lins</h1>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=5e35b1&height=220&section=header&text=Hadler%20Lins&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ADS%20Student%20%26%20Java%20Developer&descSize=20&descAlignY=60" width="100%" alt="Header Image"/>
+
   <p>
-     🚀 <b>ADS Student & Java Developer</b><br>
     🇧🇷 PT-BR | 🇺🇸 EN-US (C1)
   </p>
+  
   <p>
     <a href="https://github.com/hadlerr">
       <img src="https://komarev.com/ghpvc/?username=hadlerr&style=flat-square&label=Views&color=5e35b1" alt="Profile Views">
@@ -28,7 +29,7 @@ Ex-entrepreneur bringing business maturity to code. Focus on clean architecture.
 </p>
 <ul>
 <li>🔭 Atualmente desenvolvendo projetos com <b>Java e Spring Boot</b>.</li>
-<li>📚 Estudando <b>Google Analytics (Coursera)</b> para unir dados e desenvolvimento.</li>
+<li>📚 Estudando <b>Selenium+Java</b> para mais profundidade nos fundamentos de automação web.</li>
 <li>🗣️ <b>Inglês C1 (Avançado/Fluente):</b> Leitura nativa de documentações e consumo de conteúdo técnico internacional.</li>
 <li>💼 <b>Background:</b> Trago soft skills sólidas de gestão, responsabilidade e foco em resultados da minha vivência anterior como empreendedor.</li>
 </ul>
@@ -42,7 +43,7 @@ Ex-entrepreneur bringing business maturity to code. Focus on clean architecture.
 <h3>🛠️ Tech Stack</h3>
 <img src="https://skillicons.dev/icons?i=java,spring,mysql,docker&theme=dark" height="40" />
 <br>
-<img src="https://skillicons.dev/icons?i=git,maven,idea,postman&theme=dark" height="40" style="margin-top:5px;" />
+<img src="https://skillicons.dev/icons?i=git,maven,idea,postman,selenium&theme=dark" height="40" style="margin-top:5px;" />
 <br><br>
 <h3>📊 GitHub Stats</h3>
 <img src="https://github-readme-stats.vercel.app/api?username=hadlerr&show_icons=true&theme=dracula&bg_color=282a36&hide_border=true&count_private=true&title_color=5e35b1&icon_color=ffd700" width="100%" />
@@ -52,3 +53,13 @@ Ex-entrepreneur bringing business maturity to code. Focus on clean architecture.
 </td>
 </tr>
 </table>
+
+![Snake animation](https://github.com/hadlerr/hadlerr/blob/output/github-contribution-grid-snake.svg)
+
+
+
+<p align = "left">
+
+<img src = "https://github-readme-streak-stats.herokuapp.com?user=hadlerr&theme=dracula&hide_border=falso" width = 400>
+
+</p>
