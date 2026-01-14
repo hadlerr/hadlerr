@@ -1,65 +1,59 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=5e35b1&height=220&section=header&text=Hadler%20Lins&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ADS%20Student%20%26%20Java%20Developer&descSize=20&descAlignY=60" width="100%" alt="Header Image"/>
-
-  <p>
-    🇧🇷 PT-BR | 🇺🇸 EN-US (C1)
-  </p>
-  
-  <p>
-    <a href="https://github.com/hadlerr">
-      <img src="https://komarev.com/ghpvc/?username=hadlerr&style=flat-square&label=Views&color=5e35b1" alt="Profile Views">
-    </a>
-    <a href="https://github.com/hadlerr?tab=followers">
-      <img src="https://img.shields.io/github/followers/hadlerr?style=flat-square&logo=github&labelColor=171e26&color=5e35b1" alt="Followers">
-    </a>
-    <a href="https://github.com/hadlerr?tab=stars">
-      <img src="https://img.shields.io/github/stars/hadlerr?style=flat-square&logo=github&labelColor=171e26&color=ffd700" alt="Stars">
-    </a>
-  </p>
+<img src="https://img.freepik.com/free-vector/tech-banner-illustration-desktop-computer_107791-7920.jpg?t=st=1768349100~exp=1768352700~hmac=251912ea03dce19d50c15234a9b2192157a9cbff6c3fb445fe2fb1350b651597&w=1480" width="100%" style="border-radius: 8px;" alt="Setup Tech Banner" />
 </div>
-
 <br>
-
-<table width="100%">
-<tr>
-<td valign="top" width="50%">
-<h3>👨‍💻 Sobre Mim</h3>
+<div align="center">
 <p>
-Ex-entrepreneur bringing business maturity to code. Focus on clean architecture. <b>Java</b>.
+<img src="https://komarev.com/ghpvc/?username=hadlerr&style=flat-square&label=Profile%20Views&color=1e3a8a" alt="Profile Views">
+<a href="https://github.com/hadlerr?tab=followers">
+<img src="https://img.shields.io/github/followers/hadlerr?style=flat-square&logo=github&label=Followers&color=1e3a8a" alt="Followers">
+</a>
+<a href="https://github.com/hadlerr?tab=stars">
+<img src="https://img.shields.io/github/stars/hadlerr?style=flat-square&logo=github&label=Stars&color=1e3a8a" alt="Stars">
+</a>
 </p>
-<ul>
-<li>🔭 Atualmente desenvolvendo projetos com <b>Java e Spring Boot</b>.</li>
-<li>📚 Estudando <b>Selenium+Java</b> para mais profundidade nos fundamentos de automação web.</li>
-<li>🗣️ <b>Inglês C1 (Avançado/Fluente):</b> Leitura nativa de documentações e consumo de conteúdo técnico internacional.</li>
-<li>💼 <b>Background:</b> Trago soft skills sólidas de gestão, responsabilidade e foco em resultados da minha vivência anterior como empreendedor.</li>
-</ul>
-<div align="center">
-<a href="https://www.linkedin.com/in/hadler-souza-925446321/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30"></a>
-<a href="mailto:hadlersouza96@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"></a>
 </div>
+<br>
+<table border="0" width="100%">
+<tr>
+<td width="55%" valign="top">
+<h3>👨‍💻 Sobre Mim:</h3>
+<p>
+<b>Sou Estudante de Análise e Desenvolvimento de sistemas com Foco em QA + Automação.</b><br>
+Busco entregar projetos com arquitetura limpa através de fundamentos sólidos.
+</p>
+<br>
+<h3>🚀 Atualmente:</h3>
+<ul>
+<li>🌱 Estudando <b>Java, Spring Boot & Selenium</b>.</li>
+<li>🎓 Focando em <b>Qualidade de Software (QA)</b> e Automação.</li>
+<li>🇺🇸 <b>Inglês C1:</b> Leitura fluente de documentação técnica.</li>
+</ul>
+<br>
+<a href="https://www.linkedin.com/in/hadler-souza-925446321/" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30">
+</a>
+<a href="mailto:hadlersouza96@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30">
+</a>
 </td>
-<td valign="top" width="50%">
-<div align="center">
+<td width="45%" valign="top" align="center">
 <h3>🛠️ Tech Stack</h3>
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,docker&theme=dark" height="40" />
+<div align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,docker,git,maven,idea,postman,selenium&theme=dark&perline=4" />
+</div>
 <br>
-<img src="https://skillicons.dev/icons?i=git,maven,idea,postman,selenium&theme=dark" height="40" style="margin-top:5px;" />
-<br><br>
 <h3>📊 GitHub Stats</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=hadlerr&show_icons=true&theme=dracula&bg_color=282a36&hide_border=true&count_private=true&title_color=5e35b1&icon_color=ffd700" width="100%" />
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadlerr&layout=compact&langs_count=6&theme=dracula&bg_color=282a36&hide_border=true&title_color=5e35b1" width="100%" />
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hadlerr&theme=dracula&hide_border=true&background=282a36&ring=1e3a8a&fire=1e3a8a&currStreakNum=ffffff" width="100%" alt="GitHub Streak" />
 </div>
 </td>
 </tr>
 </table>
-
-![Snake animation](https://github.com/hadlerr/hadlerr/blob/output/github-contribution-grid-snake.svg)
-
-
-
-<p align = "left">
-
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=hadlerr&theme=dracula&hide_border=falso" width = 400>
-
-</p>
+<br>
+<div align="center">
+<img src="https://img.shields.io/badge/BUILT%20WITH-LOVE-E36107?style=for-the-badge&logo=ko-fi&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/BUILT%20WITH-SWAG-E36107?style=for-the-badge&logo=git&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/OPEN-SOURCE-D14836?style=for-the-badge&logo=open-source-initiative&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/MADE%20WITH-MARKDOWN-D14836?style=for-the-badge&logo=markdown&logoColor=white" height="28">
+</div>
