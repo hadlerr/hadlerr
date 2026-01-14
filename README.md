@@ -19,15 +19,16 @@
 <td width="55%" valign="top">
 <h3>👨‍💻 Sobre Mim:</h3>
 <p>
-<b>Sou Estudante de Análise e Desenvolvimento de sistemas com Foco em QA + Automação.</b><br>
-Busco entregar projetos com arquitetura limpa através de fundamentos sólidos.
+🎓 Software Analysis and Development: Foco em Automação & QA. <br>
+💼 Ex-Founder: Trago soft skills de liderança e resolução de problemas. <br>
+🗽 Inglês Fluente (C1): Pronto para desafios globais.
 </p>
 <br>
 <h3>🚀 Atualmente:</h3>
 <ul>
-<li>🌱 Estudando <b>Java, Spring Boot & Selenium</b>.</li>
-<li>🎓 Focando em <b>Qualidade de Software (QA)</b> e Automação.</li>
-<li>🇺🇸 <b>Inglês C1:</b> Leitura fluente de documentação técnica.</li>
+<li>🤖 Desenvolvendo em: <b>Java, Spring Boot & Selenium</b>.</li>
+<li>🎓 Focado em <b>Qualidade de Software (QA)</b> e Automação Web.</li>
+<li>📊 Estudando <b>Google Data Analytics.</b></li>
 </ul>
 <br>
 <a href="https://www.linkedin.com/in/hadler-souza-925446321/" target="_blank">
