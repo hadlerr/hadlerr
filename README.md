@@ -14,31 +14,34 @@
 </p>
 </div>
 <br>
-<table border="0" width="100%">
+<div align="center">
+<table border="0">
 <tr>
-<td width="55%" valign="top">
+<td width="600px" valign="top">
 <h3>👨‍💻 Sobre Mim:</h3>
-<p>
-🎓 Software Analysis and Development: Foco em Automação & QA. <br>
-💼 Ex-Founder: Trago soft skills de liderança e resolução de problemas. <br>
-🗽 Inglês Fluente (C1): Pronto para desafios globais.
+<p align="left">
+📊 <b>Software Analysis and Development: Foco em Automação & QA.</b><br>
+💼 <b>Ex-Founder:</b> Trago soft skills de liderança e resolução de problemas.<br>
+🗽 <b>Inglês Fluente (C1):</b> Pronto para desafios globais.
 </p>
 <br>
 <h3>🚀 Atualmente:</h3>
-<ul>
-<li>🤖 Desenvolvendo em: <b>Java, Spring Boot & Selenium</b>.</li>
-<li>🎓 Focado em <b>Qualidade de Software (QA)</b> e Automação Web.</li>
-<li>📊 Estudando <b>Google Data Analytics.</b></li>
+<ul align="left">
+<li>☕ Desenvolvendo em: <b>Java, Spring Boot & Selenium</b>.</li>
+<li>🔎 Focado em <b>Qualidade de Software (QA)</b> e Automação Web.</li>
+<li>📊 Estudando <b>Google Data Analytics</b>.</li>
 </ul>
 <br>
+<div align="left">
 <a href="https://www.linkedin.com/in/hadler-souza-925446321/" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30">
 </a>
 <a href="mailto:hadlersouza96@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30">
 </a>
+</div>
 </td>
-<td width="45%" valign="top" align="center">
+<td width="400px" valign="top" align="center">
 <h3>🛠️ Tech Stack</h3>
 <div align="center">
 <img src="https://skillicons.dev/icons?i=java,spring,mysql,docker,git,maven,idea,postman,selenium&theme=dark&perline=4" />
@@ -46,15 +49,16 @@
 <br>
 <h3>📊 GitHub Stats</h3>
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hadlerr&theme=dracula&hide_border=true&background=282a36&ring=1e3a8a&fire=1e3a8a&currStreakNum=ffffff" width="100%" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=hadlerr&hide_border=true&background=282a36&ring=1e3a8a&fire=1e3a8a&currStreakNum=ffffff&sideNums=1e3a8a&sideLabels=1e3a8a&dates=ffffff" width="100%" alt="GitHub Streak" />
 </div>
 </td>
 </tr>
 </table>
+</div>
 <br>
 <div align="center">
 <img src="https://img.shields.io/badge/BUILT%20WITH-LOVE-E36107?style=for-the-badge&logo=ko-fi&logoColor=white" height="28">
 <img src="https://img.shields.io/badge/BUILT%20WITH-SWAG-E36107?style=for-the-badge&logo=git&logoColor=white" height="28">
-<img src="https://img.shields.io/badge/OPEN-SOURCE-D14836?style=for-the-badge&logo=open-source-initiative&logoColor=white" height="28">
-<img src="https://img.shields.io/badge/MADE%20WITH-MARKDOWN-D14836?style=for-the-badge&logo=markdown&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/OPEN-SOURCE-2ea043?style=for-the-badge&logo=open-source-initiative&logoColor=white" height="28">
+<img src="https://img.shields.io/badge/MADE%20WITH-MARKDOWN-2ea043?style=for-the-badge&logo=markdown&logoColor=white" height="28">
 </div>
