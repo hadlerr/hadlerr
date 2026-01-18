@@ -28,7 +28,7 @@
 <h3>🚀 Atualmente:</h3>
 <ul align="left">
 <li>☕ Desenvolvendo em: <b>Java, Spring Boot & Selenium</b>.</li>
-<li>🔎 Focado em <b>Qualidade de Software (QA)</b> e Automação Web.</li>
+<li>🔎 Focado em <b>Engenharia de Software, (QA)</b> e Automação web.</li>
 <li>📊 Estudando <b>Google Data Analytics</b>.</li>
 </ul>
 <br>
