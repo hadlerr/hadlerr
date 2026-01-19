@@ -1,28 +1,35 @@
 <div align="center">
-<img src="https://img.freepik.com/free-vector/tech-banner-illustration-desktop-computer_107791-7920.jpg?t=st=1768349100~exp=1768352700~hmac=251912ea03dce19d50c15234a9b2192157a9cbff6c3fb445fe2fb1350b651597&w=1480" width="100%" style="border-radius: 8px;" alt="Setup Tech Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=300&section=header&text=Hadler%20Souza&fontSize=70&animation=fadeIn&fontColor=00ff00&desc=QA%20Automation%20|%20Software%20Analysis&descSize=20&descAlignY=60&stroke=00ff00&strokeWidth=2" alt="Terminal Header">
 </div>
-<br>
+
 <div align="center">
 <p>
-<img src="https://komarev.com/ghpvc/?username=hadlerr&style=flat-square&label=Profile%20Views&color=1e3a8a" alt="Profile Views">
+<img src="https://komarev.com/ghpvc/?username=hadlerr&style=flat-square&label=Profile%20Views&color=2ea043" alt="Profile Views">
 <a href="https://github.com/hadlerr?tab=followers">
-<img src="https://img.shields.io/github/followers/hadlerr?style=flat-square&logo=github&label=Followers&color=1e3a8a" alt="Followers">
+<img src="https://img.shields.io/github/followers/hadlerr?style=flat-square&logo=github&label=Followers&color=2ea043" alt="Followers">
 </a>
 <a href="https://github.com/hadlerr?tab=stars">
-<img src="https://img.shields.io/github/stars/hadlerr?style=flat-square&logo=github&label=Stars&color=1e3a8a" alt="Stars">
+<img src="https://img.shields.io/github/stars/hadlerr?style=flat-square&logo=github&label=Stars&color=2ea043" alt="Stars">
 </a>
 </p>
 </div>
 <br>
+
 <div align="center">
 <table border="0">
 <tr>
 <td width="600px" valign="top">
 <h3>👨‍💻 Sobre Mim:</h3>
 <p align="left">
-📊 <b>Software Analysis and Development: Foco em Automação & QA.</b><br>
-💼 <b>Ex-Founder:</b> Trago soft skills de liderança e resolução de problemas.<br>
-🗽 <b>Inglês Fluente (C1):</b> Pronto para desafios globais.
+Olá, meu nome é Hadler Souza, tenho 29 anos, sou estudante de Análise e Desenvolvimento de Sistemas pela UNINTER!
+<br><br>
+Minha carreira não começou com código, mas com <b>resolução de problemas reais</b>.
+Comecei a trabalhar aos 13 anos e consegui adquirir muita experiência técnica e habilidades das mais variadas. Antes de entrar no mundo do Desenvolvimento de Software, Empreendi por 6 anos na área de indústria gráfica. Lá, aprendi na prática que falhas de processo custam caro — uma lição que hoje define minha abordagem em <b>Qualidade de Software (QA)</b>.
+<br><br>
+Atualmente, estou unindo essa maturidade de gestão com a técnica em <b>Java e Spring Boot</b>. Uso meu <b>Inglês Fluente (C1)</b> como um superpoder para consumir documentações complexas e acelerar meu desenvolvimento.
+<br><br>
+🎯 <b>Meu objetivo:</b> Entrar em um time onde eu possa aplicar essa visão de Empreendedor para entregar softwares estáveis e de valor.
+</p>
 </p>
 <br>
 <h3>🚀 Atualmente:</h3>
@@ -49,7 +56,7 @@
 <br>
 <h3>📊 GitHub Stats</h3>
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=hadlerr&hide_border=true&background=282a36&ring=1e3a8a&fire=1e3a8a&currStreakNum=ffffff&sideNums=1e3a8a&sideLabels=1e3a8a&dates=ffffff" width="100%" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=hadlerr&hide_border=true&background=0d1117&ring=00ff00&fire=00ff00&currStreakNum=ffffff&sideNums=00ff00&sideLabels=00ff00&dates=ffffff" width="100%" alt="GitHub Streak" />
 </div>
 </td>
 </tr>
