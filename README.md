@@ -26,7 +26,7 @@ Olá, meu nome é Hadler Souza, tenho 29 anos, sou estudante de Análise e Desen
 Minha carreira não começou com código, mas com <b>resolução de problemas reais</b>.
 Comecei a trabalhar aos 14 anos e consegui adquirir muita experiência técnica e habilidades das mais variadas. Antes de entrar no mundo do Desenvolvimento de Software, Empreendi por 6 anos na área de indústria gráfica. Lá, aprendi na prática que falhas de processo custam caro — uma lição que hoje define minha abordagem em <b>Qualidade de Software (QA)</b>.
 <br><br>
-Atualmente, estou unindo essa maturidade de gestão com a técnica em <b>Java e Spring Boot</b>. Uso meu <b>Inglês Fluente (C1)</b> como um superpoder para consumir documentações complexas e acelerar meu desenvolvimento.
+Atualmente, estou unindo essa maturidade de gestão com a técnica em <b>Java e Spring Boot</b>. Possuo <b>Inglês Fluente (C1)</b>para consumir documentações complexas e acelerar meu desenvolvimento.
 <br><br>
 🎯 <b>Meu objetivo:</b> Entrar em um time onde eu possa aplicar essa visão de Empreendedor para entregar softwares estáveis e de valor.
 </p>
